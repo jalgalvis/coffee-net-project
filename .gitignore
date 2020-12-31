@@ -1,0 +1,33 @@
+
+# for MAC
+.DS_Store
+
+# DATASETS
+*.csv
+*.txt
+*.gz
+*.json
+*.xls
+*.xlsx
+*.xml
+
+# IMAGES
+*.jpg
+*.jpeg
+
+# TENSORFLOW RECORDS
+*.tflite
+*.tfrecord
+*.record
+*.tfevents*
+
+# SAVED NUMPY ARRAYS
+*.npy
+
+# SAVED MODELS
+*.index
+*.pb
+*.h5
+*.pbtxt
+*.data*
+*.ckpt*
